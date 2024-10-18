@@ -17,7 +17,7 @@
 
 ## Live Demo 🌐
 #### You can view the live version of the Berrylicious website here:
-(url)
+(https://berrylicious-by-muzna-amir-zubairi.vercel.app/)
 
 ## Contact 📧
 ##### For any questions or suggestions, feel free to contact me at: muznazuberi123@gmail.com
