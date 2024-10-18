@@ -1,0 +1,2 @@
+# Milestone-2-AssignmentsBuild-a-simple-multi-page-website-using-React-components-Apply-Custom-CSS
+Berrylicious is a beautifully crafted multi-page website built with Next.js and custom CSS, celebrating the vibrant world of fruits. It showcases nature's sweetest offerings, from oranges to berries, with a sleek design and smooth navigation. Visitors can explore a variety of fruits, discovering their flavors, benefits
