@@ -1,0 +1,237 @@
+{/* Apply Custom CSS*/}
+
+
+body{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+
+
+{/*Navbar Section*/}
+nav{
+  display: flex;
+  list-style: none;
+  z-index: 10;
+  padding-top: 30px;
+  margin: 10px;
+  justify-content: space-between;
+
+}
+
+
+nav a{
+	font-size: 20px;
+  padding: 0px 4px;
+  margin: auto;
+  color: #FF4011;
+  text-decoration: none;
+
+}
+
+.nav-btn{
+    margin: auto;
+    background-color: #FF4011;
+    color: white;
+    border-radius: 10px;
+    border:none;
+    padding: 7px 10px;
+    margin-top: 0px 7px;
+
+}
+
+
+
+
+
+
+
+{/*Slider Section*/}
+.slider{
+  width: 100%;
+  height: 100%;
+  margin-top: 20px;
+
+}
+
+
+
+
+
+
+
+
+{/*Services Section*/}
+
+h1{
+  color: #FF4011;
+  text-align: center;
+  font-size: 40px;
+  padding-top: 30px;
+  margin-top: 100px;
+
+}
+
+.our_services{
+  display: flex;
+  flex-wrap: wrap-reverse;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+
+
+h2{
+  color:#FF4011;
+}
+
+
+
+p{
+  text-align: center;
+}
+
+
+.service_box{
+  flex: 40%;
+  margin: 10px;
+  padding: 20px;
+  text-align: center;
+  border-radius: 8px;
+  border: 1px solid lightgrey;
+}
+
+
+.service-btn a{
+  font-size: 20px;
+  margin: auto;
+  display: flex;
+  padding: 10px 20px;
+  background-color: #FF4011;
+  color: white;
+  border: none;
+  border-radius: 7px;
+  text-decoration: none;
+  width: 100px;
+}
+
+
+
+
+
+
+
+
+{/*FruitCover Section*/}
+
+.fruitfull_slider{
+  width: 100%;
+  height: 100%;
+  margin-top: 30px;
+
+
+}
+
+
+
+
+
+
+
+
+
+{/*Contact Section*/}
+
+h3{
+  font-size: 40px;
+  color:#FF4011;
+  text-align: center;
+  padding-top: 70px
+}
+
+
+.form-container{
+   background-color: #FDF1E9;
+   margin-top: 30px;
+   padding: 20px;
+
+}
+
+
+h4{
+  font-size: 24px;
+  color:#FF4011;
+  text-align: center;
+}
+
+
+form{
+  width: 60%;
+  margin: auto;
+  padding: 20px;
+}
+
+
+fieldset{
+  border: 1px solid #FF4011;
+  padding: 40px 30px;
+  border-radius: 7px;
+}
+
+
+legend{
+  color: #FF4011;
+  font-size: 30px;
+}
+
+
+
+label{
+      display: block;
+      margin: 10px;
+      color: #FF4011;
+      font-size: 18px;
+}
+
+
+
+input,textarea{
+  box-sizing: border-box;
+  width: 100%;
+  padding: 7px 10px;
+  border: 1px solid #FF4011;
+  border-radius: 10px;
+}
+
+
+
+.form-btn{
+  margin-top: 20px;
+  padding: 7px 20px;
+  border-radius: 10px;
+  border: none;
+  background-color:#FF4011;
+  color: white; 
+  font-size: 16px;
+}
+
+
+
+
+
+
+
+{/*Footer Section*/}
+
+.footer_p{
+  font-size: 20px;
+  color: white;
+  margin: auto;
+  background-color: #FF4011;
+  margin-top: 90px;
+  padding: 20px;
+}
+
+
+
